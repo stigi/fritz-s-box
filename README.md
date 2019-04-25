@@ -2,6 +2,8 @@
 
 An MP3 player for Kids, based on an Arduino and a DFPlayer Mini
 
+Check out the demo: https://www.instagram.com/stigi/p/BflIoxzle3e/
+
 ## Code
 
 The code is written for Arduino and runs on a Pro Mini clone.
